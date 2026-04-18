@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>我的电视</h1>
+    <h1>电视直播</h1>
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yaoxieyoulei/mytv-android)
