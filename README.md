@@ -2,9 +2,9 @@
     <h1>电视直播</h1>
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yaoxieyoulei/mytv-android)
-![GitHub Repo stars](https://img.shields.io/github/stars/yaoxieyoulei/mytv-android)
-![GitHub all releases](https://img.shields.io/github/downloads/yaoxieyoulei/mytv-android/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/WGKER/my-tv)
+![GitHub Repo stars](https://img.shields.io/github/stars/WGKER/my-tv)
+![GitHub all releases](https://img.shields.io/github/downloads/WGKER/my-tv/total)
 
 </div>
     <p>使用Android原生开发的视频播放软件</p>
@@ -109,15 +109,7 @@
 
 ## 声明
 
-此项目（我的电视）是个人为了兴趣而开发, 仅用于学习和测试。 所用API皆从官方网站收集, 不提供任何破解内容。
-
-## 技术交流
-
-Telegram: https://t.me/mytv_android
-
-## 赞赏
-
-<img src="./screenshots/mm_reward_qrcode.png" width="48%"/>
+此项目（电视直播）是个人为了兴趣而开发, 仅用于学习和测试。 所用API皆从官方网站收集, 不提供任何破解内容。
 
 ## 致谢
 
